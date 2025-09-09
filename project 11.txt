@@ -1,0 +1,59 @@
+Project Title: HomeChef – AI-Powered Desktop Recipe Assistant
+1. Project Summary
+HomeChef is an intelligent desktop application designed to transform the home cooking experience. By leveraging cutting-edge AI, this project aims to create a smart recipe assistant that helps users discover meals based on the ingredients they already have. The application will feature a built-in recipe database, a dynamic grocery list manager, and an interactive AI chatbot powered by the OpenAI GPT API. This chatbot will provide real-time cooking assistance, offer creative recipe ideas, and suggest ingredient substitutions, streamlining the entire journey from planning to cooking.
+2. Project Goals & Objectives
+To develop a robust and intuitive desktop application for recipe management and discovery.
+To integrate the OpenAI GPT API to provide users with intelligent, context-aware assistance.
+To design a user-friendly interface that simplifies meal planning and cooking.
+To implement a smart grocery list feature that automatically updates based on user-selected recipes.
+To build an AI-powered chatbot that serves as a real-time virtual cooking assistant.
+3. Core Modules & Functional Requirements
+The application will be built around the following five core modules:
+Module 1: Recipe Management
+The application shall provide a browsable and searchable recipe library with high-quality images.
+Each recipe entry must include a detailed ingredient list, step-by-step instructions, estimated cooking time, and a difficulty level.
+The system shall allow users to save their favorite recipes for quick and easy access.
+Module 2: Smart Recipe Suggestions (GPT API Integration)
+The user interface must provide a feature for users to input a list of their available ingredients.
+The application's backend will send this list to the GPT API to:
+Suggest matching recipes from the application's built-in database.
+If no exact match is found, generate creative recipe ideas (e.g., "With flour, eggs, and sugar, you could make simple crepes.").
+Provide alternative ingredient recommendations for existing recipes (e.g., "No butter? You can use margarine or a plant-based oil.").
+Module 3: AI Cooking Assistant (Chatbot with GPT API)
+The application will feature an interactive chatbot panel.
+Users can ask the chatbot for:
+Step-by-step cooking guidance on a specific recipe.
+Ingredient substitution advice within the context of a recipe.
+General nutritional information or cooking-related queries.
+The GPT API will process these natural language queries and provide helpful text-based responses.
+Module 4: Grocery List Management
+The application will feature a dedicated grocery list section.
+When a user selects a recipe, the system shall automatically identify missing ingredients (based on a user-managed pantry list) and add them to the grocery list.
+Users must be able to manually add/remove items and export or copy the list for sharing.
+Module 5: Real-time Step-by-Step Cooking Guide
+When a user is actively cooking, the interface will display recipe steps clearly.
+A feature will allow users to ask for contextual tips from the AI assistant related to the current step (e.g., "What's the best way to chop onions for this recipe?").
+4. System Architecture & Workflow
+User Interaction: The user interacts with the desktop GUI (built with PyQt or Tkinter).
+Application Logic: Python backend code receives user input (e.g., button clicks, text entry).
+Database Interaction: For standard operations (viewing a saved recipe), the application queries the local SQLite database.
+API Call: For AI-driven features, the application formats a request and sends it to the OpenAI GPT API over the internet.
+Response Handling: The application parses the JSON response from the API.
+UI Update: The GUI is updated dynamically to display the results (e.g., recipe suggestions, chatbot response).
+5. Suggested Tools & Technologies
+Programming Language: Python (for backend logic, API integration, and GUI control).
+Desktop GUI Framework:
+PyQt (Recommended): A powerful, feature-rich framework for creating professional-looking desktop applications.
+Tkinter: A simpler, built-in Python library suitable for rapid prototyping and simpler interfaces.
+Database: SQLite (Ideal for desktop applications as it is serverless, file-based, and requires no separate installation).
+API & Authentication: OpenAI GPT API.
+API Communication: Python requests library for making HTTP calls to the OpenAI API.
+IDE & Development Tools: PyCharm or VS Code.
+6. Evaluation & Deliverables
+The success of the project will be evaluated based on the following deliverables:
+A fully functional desktop application (e.g., an executable file).
+Complete source code with comments and clear structure.
+A final project report detailing the system architecture, design choices, challenges faced, and a user manual.
+A final presentation and live demonstration of the application's features.
+7. Special Notes
+The student is responsible for obtaining their own OpenAI API key. A free tier with usage limits is typically available.

@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Simple Pancakes",
+        "ingredients": [
+            "flour",
+            "milk",
+            "egg",
+            "sugar",
+            "baking powder",
+            "salt",
+            "butter"
+        ],
+        "steps": [
+            "In a bowl combine flour, sugar, baking powder and salt.",
+            "Add milk and egg, whisk until smooth.",
+            "Heat a lightly buttered skillet over medium heat.",
+            "Pour batter to form pancakes. Cook until bubbles form, flip and cook until golden.",
+            "Serve with butter, honey or syrup."
+        ],
+        "time": 20,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Scrambled Eggs",
+        "ingredients": [
+            "egg",
+            "salt",
+            "pepper",
+            "butter",
+            "milk (optional)"
+        ],
+        "steps": [
+            "Crack eggs into a bowl, add a splash of milk (optional), salt and pepper. Beat well.",
+            "Heat butter in a non-stick pan over medium-low heat.",
+            "Pour eggs, let them set slightly then stir gently until curds form.",
+            "Remove from heat while still slightly soft, serve immediately."
+        ],
+        "time": 10,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Tomato Pasta",
+        "ingredients": [
+            "pasta",
+            "tomato",
+            "olive oil",
+            "garlic",
+            "salt",
+            "pepper",
+            "basil (optional)"
+        ],
+        "steps": [
+            "Cook pasta according to package instructions until al dente.",
+            "In a pan, heat olive oil and saut\u00e9 minced garlic until fragrant.",
+            "Add chopped tomatoes, salt and pepper, simmer to make a simple sauce.",
+            "Toss cooked pasta in the sauce. Garnish with basil and serve."
+        ],
+        "time": 25,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Vegetable Stir Fry",
+        "ingredients": [
+            "mixed vegetables",
+            "soy sauce",
+            "garlic",
+            "oil",
+            "salt",
+            "pepper"
+        ],
+        "steps": [
+            "Heat oil in a wok or large pan over high heat.",
+            "Add garlic and stir until fragrant.",
+            "Add mixed vegetables and stir-fry until tender-crisp.",
+            "Add soy sauce, salt and pepper to taste. Serve with rice or noodles."
+        ],
+        "time": 15,
+        "difficulty": "Easy"
+    }
+]
