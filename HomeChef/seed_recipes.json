@@ -51,7 +51,7 @@
         ],
         "steps": [
             "Cook pasta according to package instructions until al dente.",
-            "In a pan, heat olive oil and saut\u00e9 minced garlic until fragrant.",
+            "In a pan, heat olive oil and sauté minced garlic until fragrant.",
             "Add chopped tomatoes, salt and pepper, simmer to make a simple sauce.",
             "Toss cooked pasta in the sauce. Garnish with basil and serve."
         ],
@@ -73,6 +73,363 @@
             "Add garlic and stir until fragrant.",
             "Add mixed vegetables and stir-fry until tender-crisp.",
             "Add soy sauce, salt and pepper to taste. Serve with rice or noodles."
+        ],
+        "time": 15,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Oatmeal with Berries",
+        "ingredients": [
+            "oats",
+            "milk or water",
+            "blueberries",
+            "strawberries",
+            "honey",
+            "cinnamon"
+        ],
+        "steps": [
+            "Bring milk or water to a boil in a small pot.",
+            "Add oats and reduce heat to low.",
+            "Cook for 5 minutes, stirring occasionally.",
+            "Top with fresh berries, honey, and a sprinkle of cinnamon."
+        ],
+        "time": 10,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Grilled Chicken Salad",
+        "ingredients": [
+            "chicken breast",
+            "mixed salad greens",
+            "cherry tomatoes",
+            "cucumber",
+            "olive oil",
+            "lemon juice",
+            "salt",
+            "pepper"
+        ],
+        "steps": [
+            "Season chicken breast with salt and pepper.",
+            "Grill chicken for 6-7 minutes per side until cooked through.",
+            "Let chicken rest for 5 minutes, then slice.",
+            "Toss salad greens with tomatoes and cucumber.",
+            "Top with sliced chicken and drizzle with olive oil and lemon juice."
+        ],
+        "time": 25,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Fried Rice",
+        "ingredients": [
+            "cooked rice",
+            "egg",
+            "frozen peas and carrots",
+            "green onions",
+            "soy sauce",
+            "sesame oil",
+            "garlic"
+        ],
+        "steps": [
+            "Heat sesame oil in a large pan or wok.",
+            "Add garlic and stir until fragrant.",
+            "Push to one side, scramble the egg on the other side.",
+            "Add rice and vegetables, stir-fry for 3-4 minutes.",
+            "Add soy sauce and green onions, mix well and serve."
+        ],
+        "time": 15,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Avocado Toast",
+        "ingredients": [
+            "bread",
+            "avocado",
+            "lemon juice",
+            "red pepper flakes",
+            "salt",
+            "olive oil"
+        ],
+        "steps": [
+            "Toast the bread until golden and crisp.",
+            "Mash avocado with lemon juice and salt.",
+            "Spread avocado on toast.",
+            "Drizzle with olive oil and sprinkle with red pepper flakes."
+        ],
+        "time": 8,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Chicken Noodle Soup",
+        "ingredients": [
+            "chicken breast",
+            "egg noodles",
+            "carrots",
+            "celery",
+            "onion",
+            "chicken broth",
+            "salt",
+            "pepper",
+            "dill"
+        ],
+        "steps": [
+            "Sauté onion, carrots, and celery in a pot until softened.",
+            "Add chicken broth and bring to a boil.",
+            "Add chicken breast and simmer for 15 minutes.",
+            "Remove chicken, shred it, and return to pot.",
+            "Add noodles and cook until tender. Season with dill, salt, and pepper."
+        ],
+        "time": 35,
+        "difficulty": "Medium"
+    },
+    {
+        "title": "Greek Yogurt Parfait",
+        "ingredients": [
+            "Greek yogurt",
+            "granola",
+            "honey",
+            "mixed berries",
+            "chia seeds"
+        ],
+        "steps": [
+            "Layer Greek yogurt in a glass or bowl.",
+            "Add a layer of granola.",
+            "Add fresh berries.",
+            "Repeat layers and drizzle with honey.",
+            "Sprinkle chia seeds on top."
+        ],
+        "time": 5,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Beef Tacos",
+        "ingredients": [
+            "ground beef",
+            "taco shells",
+            "lettuce",
+            "tomato",
+            "cheddar cheese",
+            "taco seasoning",
+            "sour cream"
+        ],
+        "steps": [
+            "Brown ground beef in a skillet, drain excess fat.",
+            "Add taco seasoning and water, simmer for 5 minutes.",
+            "Warm taco shells according to package instructions.",
+            "Fill shells with beef, lettuce, tomato, and cheese.",
+            "Top with sour cream and serve."
+        ],
+        "time": 20,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Smoothie Bowl",
+        "ingredients": [
+            "frozen banana",
+            "frozen berries",
+            "Greek yogurt",
+            "almond milk",
+            "granola",
+            "coconut flakes",
+            "fresh fruit"
+        ],
+        "steps": [
+            "Blend frozen banana, berries, yogurt, and almond milk until smooth.",
+            "Pour into a bowl.",
+            "Top with granola, coconut flakes, and fresh fruit."
+        ],
+        "time": 8,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Baked Salmon",
+        "ingredients": [
+            "salmon fillet",
+            "lemon",
+            "olive oil",
+            "garlic",
+            "dill",
+            "salt",
+            "pepper",
+            "asparagus"
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C).",
+            "Place salmon on a baking sheet lined with foil.",
+            "Drizzle with olive oil, lemon juice, and minced garlic.",
+            "Season with dill, salt, and pepper.",
+            "Add asparagus around the salmon.",
+            "Bake for 12-15 minutes until salmon flakes easily."
+        ],
+        "time": 20,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Egg Fried Rice",
+        "ingredients": [
+            "cooked rice",
+            "eggs",
+            "green onions",
+            "soy sauce",
+            "vegetable oil",
+            "frozen peas"
+        ],
+        "steps": [
+            "Heat oil in a wok over high heat.",
+            "Scramble eggs quickly and remove.",
+            "Add rice to the wok, stir-fry for 2 minutes.",
+            "Add peas and scrambled eggs back.",
+            "Season with soy sauce and garnish with green onions."
+        ],
+        "time": 12,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Caprese Salad",
+        "ingredients": [
+            "fresh mozzarella",
+            "tomatoes",
+            "fresh basil",
+            "balsamic vinegar",
+            "olive oil",
+            "salt",
+            "pepper"
+        ],
+        "steps": [
+            "Slice mozzarella and tomatoes into rounds.",
+            "Arrange alternating slices on a plate.",
+            "Tuck fresh basil leaves between slices.",
+            "Drizzle with olive oil and balsamic vinegar.",
+            "Season with salt and pepper."
+        ],
+        "time": 10,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "French Toast",
+        "ingredients": [
+            "bread",
+            "eggs",
+            "milk",
+            "cinnamon",
+            "vanilla extract",
+            "butter",
+            "maple syrup"
+        ],
+        "steps": [
+            "Whisk eggs, milk, cinnamon, and vanilla in a shallow dish.",
+            "Dip bread slices into the mixture, coating both sides.",
+            "Cook in buttered skillet over medium heat until golden brown.",
+            "Serve with maple syrup."
+        ],
+        "time": 15,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Chicken Wrap",
+        "ingredients": [
+            "tortilla",
+            "cooked chicken",
+            "lettuce",
+            "tomato",
+            "mayonnaise",
+            "mustard",
+            "cheese"
+        ],
+        "steps": [
+            "Warm the tortilla slightly.",
+            "Spread mayonnaise and mustard on the tortilla.",
+            "Layer chicken, lettuce, tomato, and cheese.",
+            "Roll tightly and cut in half."
+        ],
+        "time": 10,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Mushroom Risotto",
+        "ingredients": [
+            "Arborio rice",
+            "mushrooms",
+            "vegetable broth",
+            "white wine",
+            "onion",
+            "Parmesan cheese",
+            "butter",
+            "olive oil"
+        ],
+        "steps": [
+            "Sauté mushrooms in olive oil until browned, then remove.",
+            "Sauté onion in the same pan until translucent.",
+            "Add rice and toast for 2 minutes.",
+            "Add wine and stir until absorbed.",
+            "Add warm broth one ladle at a time, stirring constantly.",
+            "Stir in mushrooms, butter, and Parmesan cheese."
+        ],
+        "time": 40,
+        "difficulty": "Medium"
+    },
+    {
+        "title": "Banana Bread",
+        "ingredients": [
+            "ripe bananas",
+            "flour",
+            "sugar",
+            "eggs",
+            "butter",
+            "baking soda",
+            "vanilla extract",
+            "salt"
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Mash bananas in a large bowl.",
+            "Mix in melted butter, eggs, and vanilla.",
+            "Stir in dry ingredients until just combined.",
+            "Pour into greased loaf pan.",
+            "Bake for 50-60 minutes until toothpick comes out clean."
+        ],
+        "time": 70,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Shrimp Scampi",
+        "ingredients": [
+            "shrimp",
+            "linguine pasta",
+            "butter",
+            "garlic",
+            "white wine",
+            "lemon juice",
+            "parsley",
+            "red pepper flakes"
+        ],
+        "steps": [
+            "Cook pasta according to package directions.",
+            "Melt butter in a large skillet, add garlic and red pepper flakes.",
+            "Add shrimp and cook until pink, about 2-3 minutes per side.",
+            "Add wine and lemon juice, simmer for 2 minutes.",
+            "Toss pasta with shrimp and sauce, garnish with parsley."
+        ],
+        "time": 20,
+        "difficulty": "Easy"
+    },
+    {
+        "title": "Breakfast Burrito",
+        "ingredients": [
+            "flour tortilla",
+            "eggs",
+            "bacon or sausage",
+            "cheddar cheese",
+            "salsa",
+            "avocado",
+            "salt",
+            "pepper"
+        ],
+        "steps": [
+            "Cook bacon or sausage until crispy, then crumble.",
+            "Scramble eggs with salt and pepper.",
+            "Warm the tortilla.",
+            "Layer eggs, meat, cheese, salsa, and avocado.",
+            "Fold and roll into a burrito."
         ],
         "time": 15,
         "difficulty": "Easy"
